@@ -1,0 +1,156 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.test1{
+    background-color:red ;
+    width: 100%;
+    height: 600px;   
+}
+.outer-1{
+    background-color:blue;
+    width: 60%;
+    height: 600px;
+    float: left;
+}
+.outer-2{
+    background-color: blue;
+    width: 40%;
+    height: 600px;
+    float: right;
+}
+
+ul{
+    list-style-type: none;
+    
+}
+ul li{
+    display: inline-block;
+    padding: 15px;
+    margin-top: 18px;
+}
+ul li a{
+    text-decoration: none;
+    font-size: 18px;
+    color: white;
+}
+ul li  :first-child{
+    margin-left: 10px;
+}
+ul button{
+    font-size: 18px;
+    border: 2px solid white;
+    border-radius: 30px 30px;
+    background-color: blue;
+    color: white;
+    padding: 5px;
+    width: 15%;
+}
+.outer-1 img{
+    border-radius: 50%;
+    width: 80px;
+    margin: 8px 70px;
+}
+
+.outer-1 h2{
+    margin-left: 24%;
+    margin-top: -70px;
+    color: white;
+}
+.outer-1 p{
+    margin-left: 79px;
+    background-color:gray;
+    /* border: 2px solid white; */
+    width: 61%;
+
+}
+.outer-1 h1{
+    margin-left: 79px;
+    font-size: 40px;
+    color: white;
+}
+.span{
+    color:crimson;
+}
+.outer-1 .p-2{
+    width: 80%;
+    background-color: blue;
+    color:white;
+    text-align: justify;
+}
+.outer-1 .button{
+    font-size: 18px;
+    padding: 15px;
+    border: 2px ;
+    border-radius: 32px 32px;
+    width: 30%;
+    margin: 40px;
+    margin-left:8%;
+}
+.outer-1 .img-2{
+    margin-left: -10px;
+    margin-bottom:-30px;
+    
+}
+.outer-1 .watch{
+   margin-left: 420px;
+   margin-top: -80px;
+   font-size: 20px;
+}
+.outer-1 .img-3{
+    width: 10%;
+    border-radius: 50%;
+    border: 2px solid white;
+    margin-top: 4%;
+
+}
+.outer-1 .img-4{
+    margin-left: -90px;
+    border: 2px solid white;
+    border-radius: 50%;
+    width: 10%;
+}
+.outer-1 .img-5{
+    margin-left: -90px;
+    width: 10%;
+    border-radius: 50%;
+    border: 2px solid white;
+}
+.outer-1 .img-6{
+    margin-left: -90px;
+    width: 10%;
+    border-radius: 50%;
+    border: 2px solid white;
+}
+.outer-1 .k{
+    margin-left: 358px;
+    font-size: 20px;
+    margin-top: -54px;
+}
+.outer-1 .happy{
+    width: 20%;
+    margin: 0px 359px;
+    color: white;
+    background-color: blue;
+}
+
+.outer-1 h3{
+    margin-left: 472px;
+    margin-top: -43px;
+    color: white;
+}
+.outer-1 span.review{
+    font-size: 15px;
+    font-weight: 2px;
+    
+}
+.outer-1 .star2{
+    width: 4%;
+    margin-left: 630px;
+    margin-top: -500px;
+}
+.outer-1 .star{
+    margin: 0px 600px;
+    margin-top: -400px;
+}
