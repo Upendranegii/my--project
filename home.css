@@ -17,7 +17,7 @@
 }
 
 .outer-2{
-    background-color: purple;
+    background-color: rgb(83, 3, 83);
     width: 40%;
     height: 600px;
     float: right;
@@ -71,6 +71,11 @@ ul button{
     font-size: 40px;
     color: white;
 }
+
+.outer-2 img{
+    margin-top: 20px;
+    margin-left: -40px;
+}
 .span{
     color:crimson;
 }
@@ -90,6 +95,9 @@ ul button{
     width: 30%;
     margin: 40px;
     margin-left:8%;
+}
+.outer-1 .button:hover{ 
+    background-color:rgb(13, 195, 216);
 }
 .outer-1 .img-2{
     margin-left: -10px;
@@ -382,6 +390,11 @@ ul button{
     margin-top: 532px;
  }
 
+ .forth-1 img{
+    margin-top: 60px;
+    margin-left: 100px;
+ }
+
  .forth .forth-1{
     width: 50%;
     height: 700px;
@@ -534,6 +547,10 @@ ul button{
     margin-left: 30px;
 }
 
+.six-1 button:hover{
+    background-color: aqua;
+}
+
 .six-2 h4{
     font-size: 50px;
     color:white;
@@ -576,6 +593,9 @@ ul button{
     padding: 18px;
     width: 80%;
 }   
+.six-2 button:hover{
+    background-color: aqua;
+}
   
 .six-2{
     margin-top: -50px;
@@ -622,6 +642,10 @@ ul button{
     width: 80%;
 }   
 
+.six-3 button:hover{
+    background-color: aqua;
+}
+
 .six-4 h4{
     font-size: 50px;
     color:white;
@@ -659,7 +683,10 @@ ul button{
     margin-top: 80px;
     padding: 18px;
     width: 80%;
-}   
+}  
+.six-3 button:hover{
+    background-color: aqua;
+}
 
 .six h6{
     font-size: 60px;
@@ -757,6 +784,10 @@ ul button{
     float: left;
 
 }
+.nine-1 img{
+    margin-left: 120px;
+    margin-top: 10px;
+}
 
 .nine-2{
     background-color: rgb(33, 17, 33);
@@ -810,7 +841,9 @@ color: white;
     padding: 13px;
     margin-top: -40px;
     display: block;
-     
+}
+.nine-2 #button-4:hover{
+    background-color: aqua;
 }
 /* ten */
 
@@ -865,6 +898,9 @@ color: white;
     border: 2px solid yellow;
     border-radius:30px ;
 }
+.ten-1 button:hover{
+    background-color: aqua;
+}
 
 .ten-1 img{
 margin-left: 650px;
@@ -916,6 +952,9 @@ border-radius: 20px;
     border-radius:60px;
     margin-top: 30px;
 }
+.eleven-1 #button:hover{
+    background-color: aqua;
+}
 .eleven #button-1{
     font-size: 22px;
     font-weight: 600;
@@ -926,7 +965,9 @@ border-radius: 20px;
     border-radius:60px;
     margin-left: 50px;
 }
-
+.eleven #button-1:hover{
+    background-color: aqua;
+}
 .eleven #p{
     font-weight: 600;
     color: white;
@@ -981,7 +1022,9 @@ border-radius: 20px;
     border: 2px solid yellow;
     border-radius:60px;
     margin-top: 20px;
-
+}
+.last-1 button:hover{
+    background-color: aqua;
 }
 .last-1 img{
     margin-left: 630px;
@@ -990,3 +1033,71 @@ border-radius: 20px;
     width: 500px;
     border-radius: 20px;
 }
+
+.footer{
+    width: 100%;
+    height: 400px;
+    background:linear-gradient(rgb(95, 43, 95) ,rgb(96, 39, 80),rgb(77, 41, 77) ,rgb(91, 17, 91) );
+    position: relative;
+    
+}
+
+.footer img{
+    border-radius: 50%;
+    margin-left: 60px;
+    margin-top: 40px;
+}
+.footer h7{
+    font-size: 30px;
+    margin-left: 20px;
+    margin-top: 68px;
+    position: absolute;
+    color: white;
+    font-weight: 600;
+}
+.footer p{
+    margin-left: 70px;
+    margin-top: 10px;
+    color: white;
+    font-size: 17px;
+}
+.footer .para9{
+    margin-left: 60%;
+    margin-top:-50px;
+    color:white;
+}
+.fix{
+    width: 100%;
+    height: 80px;
+    background: blue;
+    position: fixed;
+    bottom: 0;
+}
+
+.fix button{
+    margin-left: 1100px;
+    margin-top:20px;
+    font-size: 15px;
+    padding: 15px;
+    border-radius: 40px;
+    border: 1px solid white;
+    color: blue;
+    font-weight: 550;
+    position: absolute,;
+}
+.fix button:hover{
+    background-color:rgb(16, 211, 107);
+}
+.fix h7{
+    margin-top: 30px;
+    position: absolute;
+    margin-left: 30px;
+}
+.fix span.number{
+    color: white;
+    font-size: 30px;
+    margin-left: 250px;
+    margin-top: 20px;
+    display: inline-block;
+}
+
