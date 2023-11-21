@@ -64,8 +64,9 @@ ul button{
     margin-left: 79px;
     background-color:gray;
     /* border: 2px solid white; */
-    width: 61%;
+    width: 46%;
 }
+
 .outer-1 h1{
     margin-left: 79px;
     font-size: 40px;
@@ -76,6 +77,7 @@ ul button{
     margin-top: 20px;
     margin-left: -40px;
 }
+
 .span{
     color:crimson;
 }
@@ -91,7 +93,7 @@ ul button{
     font-size: 18px;
     padding: 15px;
     border: 2px ;
-    border-radius: 32px 32px;
+    border-radius: 40px;
     width: 30%;
     margin: 40px;
     margin-left:8%;
@@ -103,54 +105,46 @@ ul button{
     margin-left: -10px;
     margin-bottom:-30px;
 }
-
 .outer-1 .watch{
    margin-left: 420px;
    margin-top: -80px;
    font-size: 23px;
 }
-
 .outer-1 .img-3{
     width: 10%;
     border-radius: 50%;
     border: 2px solid white;
     margin-top: 4%;
 }
-
 .outer-1 .img-4{
     margin-left: -90px;
     border: 2px solid white;
     border-radius: 50%;
     width: 10%;
 }
-
 .outer-1 .img-5{
     margin-left: -90px;
     width: 10%;
     border-radius: 50%;
     border: 2px solid white;
 }
-
 .outer-1 .img-6{
     margin-left: -90px;
     width: 10%;
     border-radius: 50%;
     border: 2px solid white;
 }
-
 .outer-1 .k{
     margin-left: 358px;
     font-size: 20px;
     margin-top: -54px;
 }
-
 .outer-1 .happy{
     width: 20%;
     margin: 0px 359px;
     color: white;
     background-color: rgb(83, 3, 83);
 }
-
 .outer-1 h3{
     margin-left: 472px;
     margin-top: -43px;
@@ -326,7 +320,6 @@ ul button{
     border-radius: 10px;
     background-color:blueviolet;
 }
-
 #test2{
     /* background-color: #0000ff; */
     height:480px;
@@ -338,7 +331,6 @@ ul button{
     overflow: auto;
 
 }
-
 #test2 h3{
     font-size: 38px;
     color: white;
@@ -346,7 +338,6 @@ ul button{
     /* margin-top: 70px; */
     padding: 20px 0;
 }
-
 #mydiv p{
     font-size: 18px;
     color: white;
@@ -359,7 +350,6 @@ ul button{
     margin-top:18px ;
     color: white;
 }
-
 #mydiv #myimgg{
     float: right;
     border-radius: 10px;
@@ -377,7 +367,6 @@ ul button{
 #test2::-webkit-scrollbar{
     display: none;
 }
-
 #third span.ex{
     color: rgb(226, 43, 168);
 }
@@ -410,12 +399,10 @@ ul button{
     float: right;
     margin-top: -18px;
 }
-
 .forth-2 h3{
     font-size: 55px;
     margin-top: 70px;
 }
-
 .forth-2 ul{
     margin-top: 20px;
 }
@@ -436,7 +423,6 @@ ul button{
     width: 100%;
     height: 700px;
 }    
-
 .fifth-1{
     width: 30%;
     height: 500px;
@@ -472,7 +458,6 @@ ul button{
     height: 1050px;
     position: relative;
 }
-
  .seven{
     background-color:rgb(20, 92, 199);
     width: 90%;
@@ -482,7 +467,6 @@ ul button{
     margin-top:120px;
     border-radius: 30px;
 }
-
 .six-1{
     background-color: rgb(45, 9, 204);
     width: 25%;
@@ -490,14 +474,12 @@ ul button{
     float: left;
     border-radius: 30px 0px 0px 30px;
 }
-
 .six-2{
     background-color:chocolate;
     width: 25%;
     height: 800px;
     float: left;
 }
-
 .six-3{
     background-color:rgb(213, 35, 11);
     width: 25%;
@@ -511,32 +493,27 @@ ul button{
     float: right;
     border-radius: 0px 30px 30px 0px;
 }
-
 .six-1 .bron{
         font-size: 55px;
         color: white;
         margin-top: 32px;
         margin-left: 35px;
 }
-
 .six-1 .gst{
     font-size: 20px;
     color: rgba(255, 255, 255, 0.838);
     font-weight: 100;
 }
-
 .six-1 p{
     color: wheat;
     font-size: 18px;
     margin-left: 35px;
 }
-
 .six-1 h4{
     font-size: 25px;
     color:white;
     margin-left: 35px;
 }
-
 .six-1 button{
     font-size: 15px;
     font-weight: 600;
@@ -546,43 +523,36 @@ ul button{
     border-radius: 30px;
     margin-left: 30px;
 }
-
 .six-1 button:hover{
-    background-color: aqua;
+    background-color:#be17d4;
 }
-
 .six-2 h4{
     font-size: 50px;
     color:white;
     margin-left: 35px;
     margin-top: 32px;
 }
-
 .six-2 p{
     color: white;
     margin-left: 35px;
     font-size: 20px;
     font-weight:300;
 }
-
 .six-2 h3{
     font-size: 28px;
     margin-left: 35px;
     color: white;
     margin-top: 20px;
 }
-
 .six-2 h5{
     font-size:18px;
     margin-top: 50px;
     color: white;
     margin-left: 35px;
 }
-
 .six-2 p{
     font-size: 18px;
 }
-
 .six-2 button{
     font-size: 15px;
     font-weight: 600;
@@ -594,15 +564,13 @@ ul button{
     width: 80%;
 }   
 .six-2 button:hover{
-    background-color: aqua;
+    background-color:#D2DE32;
 }
-  
 .six-2{
     margin-top: -50px;
     border-radius: 25px;
     opacity: 1;
 }
-
 .six-3 h4{
     font-size: 50px;
     color:white;
@@ -621,7 +589,6 @@ ul button{
     color: white;
     margin-top: 20px;
 }
-
 .six-3 h5{
     font-size:18px;
     margin-top: 50px;
@@ -641,11 +608,9 @@ ul button{
     padding: 18px;
     width: 80%;
 }   
-
-.six-3 button:hover{
-    background-color: aqua;
+.six-3 button:hover, .six-2 button:hover, .six1 button:hover, .six-4 button:hover {
+    background-color: #cb1ec5;
 }
-
 .six-4 h4{
     font-size: 50px;
     color:white;
@@ -664,7 +629,6 @@ ul button{
     color: white;
     margin-top: 20px;
 }
-
 .six-4 h5{
     font-size:18px;
     margin-top: 50px;
@@ -684,10 +648,6 @@ ul button{
     padding: 18px;
     width: 80%;
 }  
-.six-3 button:hover{
-    background-color: aqua;
-}
-
 .six h6{
     font-size: 60px;
     color:white;
@@ -700,7 +660,6 @@ ul button{
     /* background-color: red; */
     width: 50%;
 } 
-
 .eight{
     background-color:  rgb(33, 17, 33);
     width: 100%;
@@ -739,7 +698,6 @@ ul button{
     height: 105px;
     margin:30px 30px;
 }
-
 .eight-2 img{
     border-radius: 70%;
     width: 30%;
@@ -752,54 +710,46 @@ ul button{
     height: 105px;
     margin:30px 30px;
 }
-
 .eight-1 p, .eight-2 p, .eight-3 p{
     margin: 20px 25px;
     font-size: 18px;
 
 }
-
 .eight-1 h5,.eight-2 h5,.eight-3 h5{
     font-size: 30px;
     color: white;
     margin-left: 40px;
 }
-
 .eight-1 span.myic,.eight-2 span.myic,.eight-3 span.myic{
     margin-top: 30px;
     font-size: 50px;
     margin-left: 20px;
 }
-
 .nine{
     background-color: brown;
     width: 100%;
     height: 900px;
 }
-
 .nine-1{
     background-color:  rgb(33, 17, 33);
     width: 50%;
     height: 900px;
     float: left;
-
 }
 .nine-1 img{
     margin-left: 120px;
     margin-top: 10px;
 }
-
 .nine-2{
     background-color: rgb(33, 17, 33);
     width: 50%;
     height: 900px;
     float: left;
 }
-
 .nine-2 ul li{
     list-style-type: none;
     margin-left: 65px;
-    background-color: wheat;
+    background-color: rgb(143, 69, 146);
     width: 80%;
     font-size: 25px;
     border-radius: 20px;
@@ -808,7 +758,6 @@ ul button{
 .nine-2 ul{
     margin-top: 20px;
 }
-
 .nine-2 span.span-1{
     font-size: 50px;
     font-family: 'Alumni Sans Inline One', sans-serif;
@@ -817,7 +766,6 @@ font-family: 'Kenia', sans-serif;
 /* background-color: red; */
 color: white;
 }
-
 .nine-2 a{
     font-size: 20px;
     color: black;
@@ -828,7 +776,6 @@ color: white;
     display: block;
     color: white;
 }
-
 .nine-2 h7{
     font-size: 50px;
     font-weight: 550;
@@ -843,9 +790,9 @@ color: white;
     display: block;
 }
 .nine-2 #button-4:hover{
-    background-color: aqua;
+    background-color: #cd1c6c;
 }
-/* ten */
+      /* ten */
 
 .ten{
     background-color: rgb(33, 17, 33);
@@ -862,7 +809,6 @@ color: white;
     margin-top: 60px;
     border: 2px solid yellowgreen;
     border-radius: 20px;
-    
 }
  .ten .ten-1 h7{
     font-size: 55px;
@@ -899,16 +845,14 @@ color: white;
     border-radius:30px ;
 }
 .ten-1 button:hover{
-    background-color: aqua;
+    background-color:#7C93C3;
 }
-
 .ten-1 img{
 margin-left: 650px;
 margin-top: -310px;
 width: 42%;
 border-radius: 20px;
 }
-
 .eleven{
     width: 100%;
     height:750px;
@@ -953,7 +897,7 @@ border-radius: 20px;
     margin-top: 30px;
 }
 .eleven-1 #button:hover{
-    background-color: aqua;
+    background-color:#818FB4;
 }
 .eleven #button-1{
     font-size: 22px;
@@ -966,7 +910,7 @@ border-radius: 20px;
     margin-left: 50px;
 }
 .eleven #button-1:hover{
-    background-color: aqua;
+    background-color:#818FB4;
 }
 .eleven #p{
     font-weight: 600;
@@ -1011,7 +955,6 @@ border-radius: 20px;
     margin-top: 30px;
     margin-left: 55px;
 }
-
 .last-1 button{
     font-size: 20px;
     font-weight: 600;
@@ -1024,7 +967,7 @@ border-radius: 20px;
     margin-top: 20px;
 }
 .last-1 button:hover{
-    background-color: aqua;
+    background-color: #D0A2F7;
 }
 .last-1 img{
     margin-left: 630px;
@@ -1033,7 +976,6 @@ border-radius: 20px;
     width: 500px;
     border-radius: 20px;
 }
-
 .footer{
     width: 100%;
     height: 400px;
@@ -1041,7 +983,6 @@ border-radius: 20px;
     position: relative;
     
 }
-
 .footer img{
     border-radius: 50%;
     margin-left: 60px;
@@ -1073,7 +1014,6 @@ border-radius: 20px;
     position: fixed;
     bottom: 0;
 }
-
 .fix button{
     margin-left: 1100px;
     margin-top:20px;
@@ -1086,12 +1026,13 @@ border-radius: 20px;
     position: absolute,;
 }
 .fix button:hover{
-    background-color:rgb(16, 211, 107);
+    background-color:#B4BDFF;
 }
 .fix h7{
     margin-top: 30px;
     position: absolute;
     margin-left: 30px;
+    color: white;
 }
 .fix span.number{
     color: white;
