@@ -556,7 +556,7 @@ ul button{
 .six-2 button{
     font-size: 15px;
     font-weight: 600;
-   border:2px solid white ;
+    border:2px solid white ;
     border-radius: 30px;
     margin-left: 30px;
     margin-top: 50px;
@@ -749,7 +749,7 @@ ul button{
 .nine-2 ul li{
     list-style-type: none;
     margin-left: 65px;
-    background-color: rgb(143, 69, 146);
+    background-color: rgb(105, 69, 146);
     width: 80%;
     font-size: 25px;
     border-radius: 20px;
@@ -981,7 +981,19 @@ border-radius: 20px;
     height: 400px;
     background:linear-gradient(rgb(95, 43, 95) ,rgb(96, 39, 80),rgb(77, 41, 77) ,rgb(91, 17, 91) );
     position: relative;
-    
+}
+.footer i{
+    margin-left: 20px;
+    /* background: rgb(195, 41, 103); */
+    border-radius: 10px;
+    padding: 2px;
+    color: rgb(249, 247, 246);
+}
+.footer .iii{
+    font-size: 30px;
+    margin-left: 1050px;
+    margin-top: 25px;
+
 }
 .footer img{
     border-radius: 50%;
