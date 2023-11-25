@@ -438,6 +438,11 @@ ul button{
     float: left;
     margin-top: 90px;
 }
+.fifth-2 img{
+    margin: -20px 0 30px 100px;
+    border-radius: 30px;
+
+}
 .fifth-1 p .fifth{
     font-size: 20px;
     /* margin-left: 180px; */
@@ -986,14 +991,16 @@ border-radius: 20px;
 .footer i{
     margin-left: 20px;
     /* background: rgb(195, 41, 103); */
-    border-radius: 10px;
+    border-radius: 90px;
+    margin-top: -40px;
     padding: 2px;
     color: rgb(249, 247, 246);
 }
 .footer .iii{
     font-size: 30px;
     margin-left: 1050px;
-    margin-top: 25px;
+    margin-top: -25px;
+    position: absolute;
 
 }
 .footer img{
@@ -1113,3 +1120,9 @@ input[type="submit"]:hover {
     float: right;
     border-radius: 4px;
 }
+
+.footer .copy{
+    margin-top: 30px;
+    font-size: 15px;
+}
+
