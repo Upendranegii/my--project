@@ -441,6 +441,7 @@ ul button{
 .fifth-2 img{
     margin: -20px 0 30px 100px;
     border-radius: 30px;
+    border: 1px solid rgb(123, 123, 58);
 
 }
 .fifth-1 p .fifth{
